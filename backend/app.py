@@ -240,4 +240,4 @@ if __name__ == '__main__':
     scheduler_thread.start()
 
     # Run the Flask app
-    app.run(debug=True, use_reloader=False, port=5213)
+    app.run(use_reloader=False)
