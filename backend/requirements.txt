@@ -1,0 +1,11 @@
+Flask
+Flask-RESTful
+Flask-CORS
+SQLAlchemy
+requests
+beautifulsoup4
+lxml
+selenium
+pandas
+webdriver-manager
+APScheduler
